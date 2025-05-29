@@ -1,0 +1,22 @@
+
+
+p {
+    font-size: 24px;
+    background-color: rgb(81, 226, 120);
+
+}
+
+.conteiner {
+    margin: 20px;
+    display: inline-block;
+    text-align: center;
+    background-color: rgb(182, 182, 182);
+}
+
+.main {
+    text-align: center;
+}
+
+.conteiner>img {
+    max-width: 300px;
+}
