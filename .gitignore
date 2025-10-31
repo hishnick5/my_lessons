@@ -1,0 +1,11 @@
+# виртуалки и кеши
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.env
+# опционально: настройки редактора
+.vscode/
